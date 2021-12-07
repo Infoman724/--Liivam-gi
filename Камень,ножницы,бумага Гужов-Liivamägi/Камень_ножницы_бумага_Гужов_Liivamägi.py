@@ -16,4 +16,4 @@ while text=="AI":
             print()
         else:
             print("BOT win")
-    
+            
