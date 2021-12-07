@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Камень,ножницы,бумага Гужов-Liivamägi", "Камень,ножницы,бумага Гужов-Liivamägi\Камень,ножницы,бумага Гужов-Liivamägi.pyproj", "{09364D42-65D4-4640-8215-0274CA18CA3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09364D42-65D4-4640-8215-0274CA18CA3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09364D42-65D4-4640-8215-0274CA18CA3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B929983C-C503-4481-8071-166F7A297759}
+	EndGlobalSection
+EndGlobal
